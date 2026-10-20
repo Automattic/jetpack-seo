@@ -5,16 +5,16 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.4",
-		"automattic/jetpack-admin-ui": "^0.14.7",
-		"automattic/jetpack-connection": "^9.12.1",
+		"automattic/jetpack-admin-ui": "^0.14.8-alpha",
+		"automattic/jetpack-connection": "^9.12.2-alpha",
 		"automattic/jetpack-plans": "^0.15.0-alpha",
-		"automattic/jetpack-status": "^7.1.0",
-		"automattic/jetpack-wp-build-polyfills": "^0.6.4"
+		"automattic/jetpack-status": "^7.1.1-alpha",
+		"automattic/jetpack-wp-build-polyfills": "^0.6.5-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/jetpack-changelogger": "^7.0.4",
-		"automattic/phpunit-select-config": "^1.0.11"
+		"automattic/jetpack-changelogger": "^7.0.5-alpha",
+		"automattic/phpunit-select-config": "^1.0.12-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
@@ -54,7 +54,6 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
-		"autotagger": true,
 		"mirror-repo": "Automattic/jetpack-seo",
 		"textdomain": "jetpack-seo",
 		"changelogger": {
