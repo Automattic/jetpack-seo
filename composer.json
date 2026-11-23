@@ -5,12 +5,12 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.4",
-		"automattic/block-delimiter": "^0.4.3-alpha",
-		"automattic/jetpack-admin-ui": "^0.15.0-alpha",
-		"automattic/jetpack-connection": "^9.18.3-alpha",
+		"automattic/block-delimiter": "^0.4.3",
+		"automattic/jetpack-admin-ui": "^0.15.0",
+		"automattic/jetpack-connection": "^9.18.3",
 		"automattic/jetpack-plans": "^0.16.1",
 		"automattic/jetpack-status": "^7.1.2",
-		"automattic/jetpack-wp-build-polyfills": "^0.7.6-alpha"
+		"automattic/jetpack-wp-build-polyfills": "^0.7.6"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
